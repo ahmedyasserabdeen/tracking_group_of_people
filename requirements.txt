@@ -1,0 +1,4 @@
+flask
+ultralytics
+werkzeug
+python-dotenv
