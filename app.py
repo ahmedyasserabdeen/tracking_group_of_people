@@ -106,8 +106,10 @@ def upload_video():
             'total_time': f"{total_time:.2f}",
             'total_frames': total_frames,
             'fps': f"{fps:.2f}",
+            'continuity_issues': continuity_issues,
             'output_video': output_filename  # Pass only the filename, not the full path
         }
+
 
         return render_template('index.html', metrics=metrics)
 
