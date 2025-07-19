@@ -17,7 +17,7 @@ This is a Flask application for video tracking using YOLOv8, specifically design
 ###  Clone the repository
 
 ```bash
-git clone https://github.com/your-repository-name/yolov8-video-tracking.git
+git clone [https://github.com/your-repository-name/yolov8-video-tracking.git](https://github.com/ahmedyasserabdeen/tracking_group_of_people.git)
 cd yolov8-video-tracking
 ```
 
